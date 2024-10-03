@@ -1,0 +1,975 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bachelor of Science in Computer Science | San Francisco Bay University
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          San Francisco Bay University
+        
+
+
+
+
+Header Action Navigation
+
+
+
+
+
+Visit
+
+
+Apply 
+
+
+Online store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+Header Action Navigation
+
+
+
+
+
+Visit
+
+
+Apply 
+
+
+Online store
+
+
+
+
+Mega Menu
+
+
+Why We're Here
+
+
+
+
+
+
+
+
+Our CampusStrategic Plan
+
+
+
+
+
+
+Our Leadership
+
+
+
+
+
+
+Our Glossary of Terms
+
+
+
+
+
+
+
+
+
+
+
+Learning & Teaching
+
+
+
+
+
+
+
+
+Undergraduate ProgramsGraduate Programs
+
+
+
+
+
+
+Academic CalendarThe Center for Empowerment and Pedagogical Innovation
+
+
+
+
+
+
+Gaining Financial and Life Literacy at SFBULibrary
+
+
+
+
+
+
+Cultivating Industry Aligned CompetenciesThe SFBU Core Curriculum
+
+
+
+
+
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+Success and Support ServicesResidential LifeStudent Handbook
+
+
+
+
+
+
+BITHealth and Wellness
+
+
+
+
+
+
+Accessibility and DisabilityStudent Emergency Fund
+
+
+
+
+
+
+Student Success HubMeet the Student Success Team
+
+
+
+
+
+
+
+
+
+
+
+Financial Support
+
+
+
+
+
+
+
+
+Tuition and Costs
+
+
+
+
+
+
+Scholarships and Financial Aid
+
+
+
+
+
+
+Student Employment
+
+
+
+
+
+
+
+
+
+
+
+Community
+
+
+
+
+
+
+
+
+Silicon Valley
+
+
+
+
+
+
+Alumni
+
+
+
+
+
+
+News
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+Undergraduate AdmissionsGraduate AdmissionsStartup Scholars
+
+
+
+
+
+
+International AdmissionsTransfer AdmissionsAdmitted Students
+
+
+
+
+
+
+Request Information Meet our staff Important Dates
+
+
+
+
+
+
+VisitApply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  There’s no stopping me
+                
+
+
+
+                  from building community through technology
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Bachelor of Science in Computer Science
+
+
+
+
+
+
+
+
+
+
+Bachelor of Science in Computer Science
+
+
+
+ 
+
+Apply today
+Request information 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Informed by Silicon Valley trends and tech industry needs, the BS in computer science (CS) provides comprehensive theoretical and practical training in a range of CS subjects; they include — but are not limited to — artificial intelligence (AI), cybersecurity, data science, operating systems and object-oriented analysis. 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+120
+
+
+
+
+
+
+
+
+
+
+
+
+Units(Both in-person and online coursework available )
+
+
+
+
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+Average units per semester
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$330
+
+
+
+
+
+
+
+
+
+
+
+
+Cost per unit(2023-2024 rate)
+
+
+
+
+
+
+
+
+75
+
+
+
+
+
+
+
+
+
+
+
+
+Maximum transferrable units
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Program and Learning Objectives 
+      
+
+
+
+
+Graduates of the bachelor’s in CS program from SFBU will be able to unite modern technology concepts with a fluency in the tools they govern to lead the Silicon Valley of today — and tomorrow.
+Beyond their technical prowess, students who complete the program will achieve mastery of the following industry-aligned competencies:
+
+Written and Oral Communication: Succinctly and clearly capture complex CS concepts through the written and spoken word for a range of audiences. 
+Quantitative Reasoning and Problem Solving: Apply a deep knowledge of data management, algorithms, networks, and quantitative analysis tools to devise efficient and creative solutions.
+Information Literacy: Search for, locate and utilize information pertaining to current computing practices and software tools to meet common industry challenges.
+Inquiry, Analysis and Critical Thinking: Demonstrate holistic, rational thinking over the selection and application of suitable computing solutions grounded in modern CS principles.
+Specialized Knowledge: Leverage an understanding of core CS tenets and technologies to complete real-world programming assignments.
+
+
+
+
+
+
+
+
+
+         Graduation Requirements
+      
+
+
+
+
+SFBU requires a minimum of 120 units for graduation. We break them down into the following quantities and categories:
+
+40 units of general education courses
+
+12 units in English language communication and critical thinking
+16 units in mathematics and natural sciences
+6 units in arts and humanities
+6 units in social sciences
+
+
+65 units of major courses 
+
+50 of which are required
+15 of which are chosen from the specialization courses 
+
+
+15 units of electives 
+
+
+
+
+
+
+
+
+
+        Computer Science Curriculum
+      
+
+
+
+
+The following required core courses cover modern CS disciplines and tools: 
+
+CS200: Discrete Logic (3)
+CS230: Linux and Shell Scripting (3)
+CS230L: Linux and Shell Scripting Lab (1)
+CS250: Introduction to Programming (3)
+CS250L: Introduction to Programming Lab (1)
+CE305: Computer Organization (3)
+CS350 Data Structures (3)
+CS350L: Data Structures Lab (1)
+CS360: Programming in C and C++ (3)
+CS360L: Programming in C and C++ Lab (1)
+CS380: Operating Systems (3)
+BUS450: Professional and Technical Writing (3)
+P450: Career Development (1)
+CS455: Algorithms & Structured Programming (3)
+CS457: Data Modeling and Implementation Techniques (3)
+CS457L: Database Technologies Lab (1)
+CS480: Java and Internet Applications (3)
+CS480L: Java Programming Lab (1)
+CS483: Fundamentals of Artificial Intelligence (3)
+CS483L: Artificial Intelligence & Machine Learning Lab (1)
+CS487: Object-oriented Design and Implementations (3)
+CS494: Senior Capstone Project – I (3)
+
+Students select five additional courses from the specialization pool below:
+
+CE450: Fundamentals of Embedded Engineering (3)
+CS453: Compiler Design (3)
+CS470: Network Engineering and Management (3)
+CS477: Ethical Hacking and Penetration Testing (3)
+CS478: Blockchain Technology and Applications (3)
+CS481: Introduction to Data Science (3)
+CS485: JavaScript and Internet Programming (3)
+
+
+
+
+
+
+
+
+
+        Elective Coursework
+      
+
+
+
+
+A minimum of 15 units of elective coursework promotes a breadth of knowledge, in addition to the technical depth of their degree program. Though students may select courses in any discipline, prerequisites and corequisites must be met. 
+When applicable, students may take curricular practicum training (CPT) to earn credit for internship-based projects directly related to their course of study.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Download Full Course Catalog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Spring classes start
+Jan 13
+
+
+Summer classes start
+June 2
+ 
+Program Format
+  In-person classes
+
+
+
+
+ 
+
+Undergraduate programs
+All graduate programs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Programs
+
+
+
+
+
+
+
+ 
+
+
+
+Master of Science in Computer Science (MSCS)
+
+
+Master of Science
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+San Francisco Bay University
+
+
+
+          161 Mission Falls Lane      
+      Fremont,           CA 94539
+  
+
+
+
+510-803-7328 (SFBU)
+
+
+
+ 
+
+
+
+
+
+
+
+Linkedin
+
+
+
+
+ 
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+ 
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+ 
+
+
+
+
+
+
+
+Youtube
+
+
+
+
+ 
+
+
+
+
+
+
+
+X (Twitter)
+
+
+
+
+
+
+
+
+
+
+ 
+
+News
+Events
+Request Information
+University Policies 
+Accessibility + Disability
+Contact Us 
+Privacy
+
+
+
+ 
+
+Student Success Hub
+Careers at SFBU
+Health and Wellness
+Course Catalog 
+Accreditation
+SFBU Board
+SFBU Library
+
+
+
+ 
+
+Canvas 
+My SFBU - applicant 
+My SFBU - faculty 
+My SFBU - student 
+Alumni
+Academic Calendar
+IT support services
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2024 San Francisco Bay University
+
+
+
+
+
+
+
+
+
+Back to the top
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
